@@ -11,3 +11,8 @@ Characteristics of an agile team:
 - Work with focus;
 - To validate if the path is right;
 - To aim the continuous improvement.
+
+
+## Agile manifest
+
+![agile manifest](images/agile-manfest.png)
