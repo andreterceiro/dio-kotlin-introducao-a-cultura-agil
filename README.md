@@ -175,3 +175,5 @@ Teacher do not commented about a deadline to achieve a key point In other words:
 Curiosity: OKR have 3 words, but is related only to 2 things, see:
 - **O**bjective;
 - **K**ey **R**esults - only 1 thing
+ 
+ Is normal (not a rule) to have 2 to 5 key results for each objective.
