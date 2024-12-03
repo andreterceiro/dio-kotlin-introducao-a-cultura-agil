@@ -138,3 +138,8 @@ Teacher showed a slide similar of a PDCA cycle, with the steps:
 ### Definition
 
 ![kanban definition](images/kanban-definition.png)
+
+Initially defined by Toyota, initially Kanban borned to solve a problem related stock of products:
+
+- If you have a big stock, means that your products are not in the market;
+- If you have a lower stock, means that you can't supply the demand.
