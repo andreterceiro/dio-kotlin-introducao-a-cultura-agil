@@ -84,3 +84,9 @@ Bases of Scrum:
 
 - empiricism;
 - lean thinking.
+
+In relation to empiricism, teacher talked about **PDCA**:
+- *P*: plan;
+- *D*: do;
+- *C*: check;
+- *A*: act.
