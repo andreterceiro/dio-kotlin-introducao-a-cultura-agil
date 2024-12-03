@@ -1,5 +1,7 @@
 # General
 
+The presentetion that teacher used can be found [here (private link) - respecting copyright](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link)
+
 Teacher commented that being agile is different than being quick. In his ludic example he compared a guepardo to a bullet train. The bullet trains are more quick, but cheetah is more agile, as he can adopt better to new scenarios.
 
 A quick team tend to involve problem, be running to crazy deadlines, communication problems and other problems. In other hand, an agile team tend ti be better in achieve goals.
@@ -166,3 +168,5 @@ OKR = **O**bjective **K**ey **R**esults
 ### Definition
 
 ![OKR definition](images/okr-definition.png)
+
+For moe information, please see the slides from 50 to 58 of the [presentation related to the course](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link), please
