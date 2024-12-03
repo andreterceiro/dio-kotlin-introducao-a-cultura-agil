@@ -74,3 +74,8 @@ In some contexts it was adopted a hybrid model, with some characteristics of wat
 ## Characteristics of agile management
 
 ![characteristics-of-agile-management](images/characteristics-of-agile-management.png)
+
+
+## Scrum
+
+![Scrum summary](images/scrum-summary.png)
