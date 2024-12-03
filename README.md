@@ -106,10 +106,18 @@ TIA:
 ![scrum-pilars-TIA-adaption](images/scrum-pilars-TIA-adaption.png)
 
 
-## Scrum framework
+### Scrum framework
 
 Remember: Scrum is a **framework**. It says:
 
 - Why needs to be done;
 - What needs to be done;
 - But do not defines how to do it. In this point a methodology has a recipe related to how to do it.
+
+
+## Extreme programming
+
+
+### Summary
+
+![summary-of-xp.png](images/summary-of-xp.png)
