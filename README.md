@@ -15,6 +15,9 @@ Characteristics of an agile team:
 
 ## Agile manifest
 
+
+### Values
+
 ![agile manifest](images/agile-manfest.png)
 
 ![4-values-of-agile-manifest](images/4-values-of-agile-manifest.png)
