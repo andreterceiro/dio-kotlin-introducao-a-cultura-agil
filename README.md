@@ -170,7 +170,7 @@ For more information, please see the slides from 50 to 58 of the [presentation r
 
 Observation: NPS = customer satisfaction index. Teacher commented that 80% is a good level of NPS.
 
-Teacher do not commented about a deadline to achieve a key point In other words: in the examples you have the objective and the key result, but you don't have a deadline to achieve the key result.
+Teacher do not commented about a fixed deadline to achieve a key point In other words: in the examples you have the objective and the key result, but you don't have a deadline to achieve the key result. it depends of each case.
 
 Curiosity: OKR have 3 words, but is related only to 2 things, see:
 - **O**bjective;
