@@ -130,3 +130,11 @@ Teacher showed a slide similar of a PDCA cycle, with the steps:
 ### Summary of XP
 
 ![summary-of-xp.png](images/summary-of-xp.png)
+
+
+## Kanban
+
+
+### Definition
+
+![kanban definition](images/kanban-definition.png)
