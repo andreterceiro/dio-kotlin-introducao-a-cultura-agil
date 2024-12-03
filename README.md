@@ -124,6 +124,7 @@ Teacher showed a slide similar of a PDCA cycle, with the steps:
 - **T**: test;
 - **I**: impove / do an increment.
 
+**Pair programming** is a thing that exists in "XP world".
 
 
 ### Summary
