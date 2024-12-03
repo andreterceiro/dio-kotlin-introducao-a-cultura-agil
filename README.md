@@ -145,3 +145,5 @@ Initially defined by Toyota, initially Kanban borned to solve a problem related 
 - If you have a lower stock, means that you can't supply the demand.
 
 ![Kanban explanation](images/kanban-explanation.png)
+
+Teacher said that the original columns of a Kanban board ("to do", "did", "done") are expanded in some case. It is depends on the necessity.
