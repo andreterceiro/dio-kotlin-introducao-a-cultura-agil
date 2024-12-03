@@ -127,6 +127,6 @@ Teacher showed a slide similar of a PDCA cycle, with the steps:
 **Pair programming** is a thing that exists in "XP world".
 
 
-### Summary
+### Summary of XP
 
 ![summary-of-xp.png](images/summary-of-xp.png)
