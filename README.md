@@ -52,3 +52,5 @@ Key points:
 ## Process x project
 
 ![process_x_project](images/process_x_project.png)
+
+![process example](images/process_example.png)
