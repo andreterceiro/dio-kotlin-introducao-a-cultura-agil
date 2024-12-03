@@ -69,3 +69,8 @@ In an agile model, at the end of each sprint you can delivery a part of the prod
 A thing that is very important in Scrum (example of agile model) is that at the end of each iteration (sprint) you have a feedback and can adjust the product.
 
 In some contexts it was adopted a hybrid model, with some characteristics of waterfall and some characteristics of agile.
+
+
+## Characteristics of agile management
+
+![characteristics-of-agile-management](images/characteristics-of-agile-management.png)
