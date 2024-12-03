@@ -47,3 +47,8 @@ Key points:
 ### Vuca
 
 ![vuca](images/vuca.png)
+
+
+## Process x project
+
+![process_x_project](images/process_x_project.png)
