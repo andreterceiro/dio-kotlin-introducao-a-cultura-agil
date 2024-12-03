@@ -42,3 +42,8 @@ Key points:
 - Innovation;
 - Quick delivery (quick, but things that have a high value aggregated);
 - Efficience.
+
+
+### Vuca
+
+![vuca](images/vuca.png)
