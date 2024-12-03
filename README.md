@@ -98,3 +98,5 @@ TIA:
 - **T**ransparency;
 - **I**nspection;
 - **A**daptation.
+
+![scrum-pilars-TIA-transparency](images/scrum-pilars-TIA-transparency.png)
