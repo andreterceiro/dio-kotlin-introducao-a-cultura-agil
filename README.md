@@ -181,3 +181,8 @@ Curiosity: OKR have 3 words, but is related only to 2 things, see:
  OKR is also fundamented on the principles of agile methods.
 
 The things in OKR are not fixed. If you define in the beggining of the year an objective to achieve in the end of the year, you can change the objective in the middle of the year if you see that is not possible to achieve such an objective.
+
+
+## Useful related links
+
+Please see the [presentation related to the course](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link), please.
