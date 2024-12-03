@@ -117,6 +117,14 @@ Remember: Scrum is a **framework**. It says:
 
 ## Extreme programming
 
+Teacher showed a slide similar of a PDCA cycle, with the steps:
+
+- **P**: plan;
+- **D**: do;
+- **T**: test;
+- **I**: impove / do an increment.
+
+
 
 ### Summary
 
