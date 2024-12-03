@@ -61,3 +61,5 @@ Key points:
 ## Agile x waterfall
 
 ![waterfall](images/waterfall.png)
+
+In a waterfall model, the value aggregated to the project can be saw only at the end of the project.
