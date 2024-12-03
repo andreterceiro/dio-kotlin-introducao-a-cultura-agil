@@ -56,3 +56,8 @@ Key points:
 ![process example](images/process_example.png)
 
 ![project example](images/project_example.png)
+
+
+## Agile x waterfall
+
+![waterfall](images/waterfall.png)
