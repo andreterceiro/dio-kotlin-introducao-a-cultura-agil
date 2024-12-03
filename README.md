@@ -104,3 +104,12 @@ TIA:
 ![scrum-pilars-TIA-inspection](images/scrum-pilars-TIA-inspection.png)
 
 ![scrum-pilars-TIA-adaption](images/scrum-pilars-TIA-adaption.png)
+
+
+## Scrum framework
+
+Remember: Scrum is a **framework**. It says:
+
+- Why needs to be done;
+- What needs to be done;
+- But do not defines how to do it.
