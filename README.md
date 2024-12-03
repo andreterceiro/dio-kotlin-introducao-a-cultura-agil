@@ -79,3 +79,8 @@ In some contexts it was adopted a hybrid model, with some characteristics of wat
 ## Scrum
 
 ![Scrum summary](images/scrum-summary.png)
+
+Bases of Scrum:
+
+- empiricism;
+- lean thinking.
