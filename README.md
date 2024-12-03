@@ -28,3 +28,8 @@ Characteristics of an agile team:
 ![12-principles-of-agile-manifest-part-1](images/12-principles-of-agile-manifest-part-1.png)
 
 ![12-principles-of-agile-manifest-part-2](images/12-principles-of-agile-manifest-part-2.png)
+
+
+## Characteristics of an agile team
+
+![characteristics-of-an-agile-team](images/characteristics-of-an-agile-team.png)
