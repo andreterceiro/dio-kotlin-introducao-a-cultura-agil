@@ -67,3 +67,5 @@ In a waterfall model, the value aggregated to the project can be saw only at the
 In an agile model, at the end of each sprint you can delivery a part of the product that has a value aggregated.
 
 A thing that is very important in Scrum (example of agile model) is that at the end of each iteration (sprint) you have a feedback and can adjust the product.
+
+In some contexts it was adopted a hybrid model, with some characteristics of waterfall and some characteristics of agile.
