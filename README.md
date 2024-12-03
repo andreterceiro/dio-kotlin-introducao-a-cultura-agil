@@ -33,3 +33,12 @@ Characteristics of an agile team:
 ## Characteristics of an agile team
 
 ![characteristics-of-an-agile-team](images/characteristics-of-an-agile-team.png)
+
+
+## Importance of agile in the technology world
+
+Key points:
+
+- Innovation;
+- Quick delivery (quick, but things that have a high value aggregated);
+- Efficience.
