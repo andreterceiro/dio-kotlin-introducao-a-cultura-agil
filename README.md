@@ -177,3 +177,5 @@ Curiosity: OKR have 3 words, but is related only to 2 things, see:
 - **K**ey **R**esults - only 1 thing
  
  Is normal (not a rule) to have 2 to 5 key results for each objective.
+
+ OKR is also fundamented on the principles of agile methods.
