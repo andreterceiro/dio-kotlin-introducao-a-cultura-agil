@@ -147,3 +147,8 @@ Initially defined by Toyota, initially Kanban borned to solve a problem related 
 ![Kanban explanation](images/kanban-explanation.png)
 
 Teacher said that the original columns of a Kanban board ("to do", "did", "done") are expanded in some case. It is depends on the necessity.
+
+Curiosity:
+
+- **K**anban (uppercase "K"): method;
+- **k**anban (lowercase "k"): japanese word that means "card".
