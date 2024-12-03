@@ -63,3 +63,5 @@ Key points:
 ![waterfall](images/waterfall.png)
 
 In a waterfall model, the value aggregated to the project can be saw only at the end of the project.
+
+In an agile model, at the end of each sprint you can delivery a part of the product that has a value aggregated.
