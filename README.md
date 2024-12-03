@@ -90,3 +90,11 @@ In relation to empiricism, teacher talked about **PDCA**:
 - *D*: do;
 - *C*: check;
 - *A*: act.
+
+
+### Scrum pilars
+
+TIA:
+- **T**ransparency;
+- **I**nspection;
+- **A**daptation.
