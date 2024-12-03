@@ -156,3 +156,13 @@ Teacher said that the original columns of a Kanban board ("to do", "did", "done"
 
 - **K**anban (uppercase "K"): method;
 - **k**anban (lowercase "k"): japanese word that means "card".
+
+
+## OKR
+
+OKR = **O**bjective **K**ey **R**esults
+
+
+### Definition
+
+![OKR definition](images/okr-definition.png)
