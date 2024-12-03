@@ -164,9 +164,6 @@ Teacher said that the original columns of a Kanban board ("to do", "did", "done"
 
 OKR = **O**bjective **K**ey **R**esults
 
-
-### Definition
-
 ![OKR definition](images/okr-definition.png)
 
 For more information, please see the slides from 50 to 58 of the [presentation related to the course](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link), please.
@@ -174,3 +171,7 @@ For more information, please see the slides from 50 to 58 of the [presentation r
 Observation: NPS = customer satisfaction index. Teacher commented that 80% is a good level of NPS.
 
 Teacher do not commented about a deadline to achieve a key point In other words: in the examples you have the objective and the key result, but you don't have a deadline to achieve the key result.
+
+Curiosity: OKR have 3 words, but is related only to 2 things, see:
+- **O**bjective;
+- **K**ey **R**esults - only 1 thing
