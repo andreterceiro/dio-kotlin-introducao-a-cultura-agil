@@ -169,4 +169,6 @@ OKR = **O**bjective **K**ey **R**esults
 
 ![OKR definition](images/okr-definition.png)
 
-For moe information, please see the slides from 50 to 58 of the [presentation related to the course](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link), please
+For more information, please see the slides from 50 to 58 of the [presentation related to the course](https://drive.google.com/file/d/1HH2cKc2CMhqw7iigsA7tA0A08wCkxfbI/view?usp=drive_link), please.
+
+Observation: NPS = customer satisfaction index.
