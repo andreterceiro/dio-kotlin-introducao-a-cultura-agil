@@ -143,3 +143,5 @@ Initially defined by Toyota, initially Kanban borned to solve a problem related 
 
 - If you have a big stock, means that your products are not in the market;
 - If you have a lower stock, means that you can't supply the demand.
+
+![Kanban explanation](images/kanban-explanation.png)
